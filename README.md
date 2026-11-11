@@ -1,16 +1,16 @@
-## Hi there 👋
+# hi, i'm sriram 👋
 
-<!--
-**SriramHQ/sriramhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> tinkering around to answer questions like *how would evals for companies that deploy AI at their core look like?*
 
-Here are some ideas to get you started:
+- i enjoy understanding emerging tech and helping customers solve hard problems with it
+- startup and GTM operator. spent 9 years across SaaS, IT, and digital assets
+- current incessant curiosities: AI evals, Knowledge work tooling, Personal finance
+- building personal software for fun :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## start here
+
+- ⚡ **[quick quit](https://www.raycast.com/sriramHQ/quick-quit)** (550+ installs) : instantly quit custom groups of apps on macOS (raycast extension)
+- 🎮 **[fallfast](https://sriramhq.com/projects/fallfast/)** : fall faster, score higher (browser game)
+- 🎤 **[pitch rider](https://chromewebstore.google.com/detail/pitch-rider/ohoplbcfhnhakmajjejjodnjlpgfadkc)** : sing along to YouTube videos and match the pitch live (chrome ext)
+- 🔍 **[VC pathways](https://sriramhq.com/projects/vc-pathways/)** : find micro VCs that co-invest with top Indian anchor funds
+- 📧 **mailping** (private) : simple read receipts for Gmail (was irritated with tools bundling this essential feature with other bs)
