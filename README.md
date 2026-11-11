@@ -7,7 +7,7 @@
 - current incessant curiosities: AI evals, Knowledge work tooling, Personal finance
 - building personal software for fun :)
 
-## start here
+## projects
 
 - ⚡ **[quick quit](https://www.raycast.com/sriramHQ/quick-quit)** (550+ installs) : instantly quit custom groups of apps on macOS (raycast extension)
 - 🎮 **[fallfast](https://sriramhq.com/projects/fallfast/)** : fall faster, score higher (browser game)
